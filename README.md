@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, Game / Backend </li>개발자 셀랜딩 Selladning입니다. </li></li></br></li>Contact</br></li>Mail: lvnvn@sellanding.kr</br></li>Site: sellanding.kr</br></li>YouYube: https://www.youtube.com/channel/UCPCWbOk4bwn64RE9kkJM9Qg </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, Game / Backend </li>개발자 셀랜딩 Selladning입니다. </li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Tech Stacks </h2> <br> 
@@ -15,14 +15,13 @@
           <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flvnvn177%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=lvnvn177&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-         />  </div> 
-    </div>
+   <div align="center">
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact me</h2>
+   <ul style="list-style: none; padding: 0; font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+     <li><a href="mailto:lvnvn@sellanding.kr" style="color: #282d33; text-decoration: none;">Mail: lvnvn@sellanding.kr</a></li>
+     <li><a href="https://sellanding.kr" target="_blank" style="color: #282d33; text-decoration: none;">Site: sellanding.kr</a></li>
+     <li><a href="https://www.youtube.com/channel/UCPCWbOk4bwn64RE9kkJM9Qg" target="_blank" style="color: #282d33; text-decoration: none;">YouTube</a></li>
+   </ul>
+ </div>
+
     
