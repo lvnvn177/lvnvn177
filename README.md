@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, Game/Backend </li>개발자 셀랜딩 Selladning입니다. </li></li></br></li>Contact</br></li>Mail: lvnvn@sellanding.kr</br></li>Site: sellanding.kr</br></li>YouYube: https://www.youtube.com/channel/UCPCWbOk4bwn64RE9kkJM9Qg </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요, Game / Backend </li>개발자 셀랜딩 Selladning입니다. </li></li></br></li>Contact</br></li>Mail: lvnvn@sellanding.kr</br></li>Site: sellanding.kr</br></li>YouYube: https://www.youtube.com/channel/UCPCWbOk4bwn64RE9kkJM9Qg </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
