@@ -31,3 +31,8 @@
     <p><a href="https://www.youtube.com/channel/UCPCWbOk4bwn64RE9kkJM9Qg" target="_blank" style="color: #282d33; text-decoration: none;"> YouTube</a></p>
   </div>
 </div>
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Stat  </h2>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvnvn177&show_icons=true&theme=rose)  
