@@ -14,7 +14,7 @@
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
     <br/>
