@@ -5,7 +5,7 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Introduction</h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-    안녕하세요, Game / Backend 개발자 셀랜딩 Selladning입니다.
+    Domain Simulator / Backend Developer 셀랜딩 Selladning
   </div> 
 </div>
 
