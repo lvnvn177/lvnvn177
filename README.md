@@ -9,7 +9,7 @@
   </div> 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2> <br> 
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
@@ -20,7 +20,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
   </div>
-</div>
+</div> -->
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact me</h2>
