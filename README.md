@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b3ecff&height=180&text=Sellanding&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
@@ -20,7 +20,7 @@
     <br/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
   </div>
-</div>
+</div> -->
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact me</h2>
